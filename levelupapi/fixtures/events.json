@@ -1,0 +1,13 @@
+[
+  {
+      "model": "levelupapi.event",
+      "pk": 1,
+      "fields": {
+        "game": 1,
+        "description": "Rummikub meetup for Eliza's birthday",
+        "date": "2022-11-21",
+        "time": "18:00",
+        "organizer": 1
+    }
+  }
+]
